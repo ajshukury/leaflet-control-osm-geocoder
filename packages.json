@@ -1,0 +1,11 @@
+{
+  "name": "osm-geocoder",
+  "version": "1,
+  "description": "A simple geocoder that uses the OpenstreetMap gecoder Nominatim to locate places.",
+  "main": "src/Control.OSMGeocoder.js",
+  "browser": "dist/Control.OSMGeocoder.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaflet-control-osm-geocoder/form.git"
+  }
+}
