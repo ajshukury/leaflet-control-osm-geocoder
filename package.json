@@ -1,6 +1,6 @@
 {
   "name": "osm-geocoder",
-  "version": "1",
+  "version": "0.0.1",
   "description": "A simple geocoder that uses the OpenstreetMap gecoder Nominatim to locate places.",
   "main": "src/Control.OSMGeocoder.js",
   "browser": "dist/Control.OSMGeocoder.js",
